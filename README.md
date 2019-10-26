@@ -6,4 +6,4 @@ For anyone stumbling here, I hope they are helpful. For any interested, welcome 
 
 Best wishes in your studies!
 
-**Note:** The ipynb file is fairly large relative to what Github typically expects, so if it doesn't load a preview, I've added an html version. I haven't checked how well the html pull is formatted though, so just bear that in mind. Just download that and open it in your browser.
+**Note:** The ipynb file is fairly large relative to what Github typically expects, so if it doesn't load a preview, I've added an html version. I haven't checked how well the html pull is formatted though, so just bear that in mind. Just download that and open it in your browser (you may have to click "Save As" on the raw and then open it). As one last alternative option, you could view it using a notebook viewer [such as here](https://nbviewer.jupyter.org/github/Joshkking/Python-Statistics/blob/master/Python_Statistics_Examples.ipynb).
